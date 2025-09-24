@@ -1,0 +1,18 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+.env
+.DS_Store
+
+
+# BrowserStack
+browserstack.err
+log/
+local.log
+browserstackSetupConfig.json
+playwright-browserstack-sdk.config.js
+playwright-browserstack-sdk.config.temp.json
